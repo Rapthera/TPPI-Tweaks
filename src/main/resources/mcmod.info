@@ -3,7 +3,7 @@
     "name": "TPPI Tweaks",
     "description": "Does some useful stuff for the TPPI modpack.",
     "version": "${version}",
-    "mcversion": "1.6.4",
+    "mcversion": "1.7.10",
     "authors": [ "The TPPI Team" ],
     "requiredMods": [ "Forge" ]
 }]
